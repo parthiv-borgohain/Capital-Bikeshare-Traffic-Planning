@@ -8,6 +8,8 @@ In our analysis, we employed various techniques such as Regularized Regression, 
 
 ## Conclusion: 
 
+All codes and insights are available in this repository in the form of R codes and PPTs/PDFs.
+
 1. Our analysis revealed that the square root model provided the best fit for the data when running multiple linear regression. This suggests that there is at least a square relationship present in the data.
 
 2. The coefficients of our Square Root MLR model were found to be consistent with the results of our initial Exploratory Data Analysis for both registered and casual users.
